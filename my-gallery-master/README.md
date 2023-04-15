@@ -7,3 +7,6 @@
 </div>
 
 - Website [Preview](https://immadsidd.github.io/my-gallery-master/my-gallery-master/index.html)
+
+## Overview
+![screenshot](https://github.com/immadsidd/my-gallery-master/blob/main/my-gallery-master/screenshot.png)
